@@ -225,11 +225,9 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 ---
 
 ## 🏆 Author
-**Mahmud Alam**  
-- 🌍 Portfolio: [Mahmud Alam](https://mahmudalam.com/)  
-- 📧 Email: mahmudalam.official@gmail.com  
-- 🔗 **GitHub:** [GitHub](https://github.com/Mahmud-Alam)  
-- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mahmudalamofficial/)  
+**Manvitha Ramineni**  
+- 📧 **Email:** ramineni.m09@gmail.com   
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ramineni2001/)  
 
 ---
 

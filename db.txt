@@ -28,7 +28,7 @@
   },
   {
 	"_id" : "4",
-  	"desc": "Senior Associate consultant for Mumbai Location",
+  	"desc": "Senior Associate consultant for Texas Location",
   	"exp": 15,
   	"profile": "Senior Architect",
   	"techs": [

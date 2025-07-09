@@ -1,1 +1,1 @@
-# Spring Boot Job Portal Application 
+# Job Portal Application 

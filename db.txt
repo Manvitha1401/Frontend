@@ -10,7 +10,7 @@
   },
   {
 	"_id" : "2",
-  	"desc": "Seniour Software engineer with java skillset expert in core java and concurrency",
+  	"desc": "Senior Software engineer with java skillset expert in core java and concurrency",
   	"exp": 5,
   	"profile": "java developer",
   	"techs": [
@@ -19,7 +19,7 @@
   },
   {
 	"_id" : "3",
-  	"desc": "Assoicate consultant architecture of software, Agile, Devops ",
+  	"desc": "Associate consultant architecture of software, Agile, Devops ",
   	"exp": 10,
   	"profile": "Architect",
   	"techs": [
